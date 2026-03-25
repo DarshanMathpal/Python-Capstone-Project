@@ -1,4 +1,4 @@
-# Capstone Project - Introduction to Computer Programming
+# Python Data Analysis Basics Project
 
 ## Overview
 This is a comprehensive **Capstone Project** for **Introduction to Computer Programming**. The project demonstrates fundamental programming concepts, problem-solving strategies, and practical coding applications.
