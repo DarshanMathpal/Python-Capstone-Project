@@ -1,42 +1,67 @@
-# Python Programming Fundamentals Project
+# 🐍 Python Programming Fundamentals & Problem Solving
 
-## Overview
-This is a comprehensive **Capstone Project** for **Introduction to Computer Programming**. The project demonstrates fundamental programming concepts, problem-solving strategies, and practical coding applications.
-
-## 📖 Quick Start
-
-**Click here to open and run the notebook**: [Google Colab](https://colab.research.google.com/drive/1ufdCJEUZgFTnpAkxB8kxSdTiaPAZUKMb?usp=sharing) ⭐
+## 📌 Overview
+This project demonstrates core Python programming fundamentals through practical problem-solving and coding exercises.  
+It focuses on building a strong foundation in programming logic, control structures, and modular code design.
 
 ---
 
-## Project Details
-- **Author**: Darshan Mathpal
-- **Type**: Capstone Project / Final Assessment
-- **Format**: Jupyter Notebook (.ipynb)
-- **Language**: Python
+## 🚀 Quick Access
+👉 https://colab.research.google.com/drive/1ufdCJEUZgFTnpAkxB8kxSdTiaPAZUKMb?usp=sharing
 
 ---
 
-## 📚 What You'll Learn
+## 👤 Project Details
+- **Author**: Darshan Mathpal  
+- **Type**: Python Programming Project  
+- **Format**: Jupyter Notebook (.ipynb)  
+- **Language**: Python  
 
-- Core Programming Fundamentals
-- Variables, Data Types & Operators
-- Control Flow (loops & conditionals)
-- Functions & Modularity
-- Data Structures (lists, dictionaries)
-- Problem-Solving Strategies
-- Debugging Techniques
-- Real-World Applications
+---
+
+## 🛠️ Skills & Concepts Covered
+
+- Variables, Data Types & Operators  
+- Control Flow (Loops & Conditionals)  
+- Functions & Code Reusability  
+- Data Structures (Lists, Dictionaries)  
+- Problem Solving & Logical Thinking  
+- Debugging & Error Handling  
+
+---
+
+## 💡 Key Highlights
+
+- Implemented multiple programming problems using Python  
+- Applied control structures for decision-making and iteration  
+- Developed reusable functions for modular coding  
+- Strengthened problem-solving and logical reasoning skills  
+
+---
+
+## 🧠 What This Project Demonstrates
+
+- Strong understanding of Python fundamentals  
+- Ability to write clean and structured code  
+- Logical thinking and problem-solving ability  
+- Foundation for advanced topics like Data Analysis and Machine Learning  
+
+---
+
+## 📚 Key Learnings
+
+- Improved programming logic and structured thinking  
+- Gained hands-on experience with Python syntax and concepts  
+- Learned to break down problems into smaller steps  
+- Built a strong base for advanced Python applications  
 
 ---
 
 ## 📜 License
-
 Available for educational purposes.
 
 ---
 
 ## 📧 Contact
-
-- **GitHub**: [@DarshanMathpal](https://github.com/DarshanMathpal)
-- **Repository**: [Python_Capstone_Project](https://github.com/DarshanMathpal/Python-Capstone-Project)
+- **GitHub**: https://github.com/DarshanMathpal  
+- **Repository**: https://github.com/DarshanMathpal/python-programming-fundamentals  
