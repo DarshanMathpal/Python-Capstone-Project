@@ -63,5 +63,5 @@ Available for educational purposes.
 ---
 
 ## 📧 Contact
-- **GitHub**: https://github.com/DarshanMathpal  
-- **Repository**: https://github.com/DarshanMathpal/python-programming-fundamentals  
+- **GitHub**: [@DarshanMathpal](https://github.com/DarshanMathpal)
+- **Repository**: [python-programming-fundamentals](https://github.com/DarshanMathpal/python-programming-fundamentals) 
