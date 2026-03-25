@@ -48,6 +48,15 @@ It focuses on building a strong foundation in programming logic, control structu
 
 ---
 
+## 📌 Sample Tasks Implemented
+
+- Implemented conditional logic-based problems using if-else statements  
+- Developed reusable functions for modular programming  
+- Solved loop-based challenges for iteration and data processing  
+- Worked with lists and dictionaries for data manipulation  
+
+---
+
 ## 📚 Key Learnings
 
 - Improved programming logic and structured thinking  
